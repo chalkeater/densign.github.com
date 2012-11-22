@@ -1,0 +1,21 @@
+body {
+  background: #EEE;
+  font-family: "Helvetica Neue", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#container {
+  width: 350px;
+  margin: 10px auto;
+  height: 350px;
+  border-style: solid;
+  border-color: #ff9900;
+  border-width: 3px;
+}
+
+#wrapper {
+  width: auto;
+  height: auto;
+  background: gray;
+}
