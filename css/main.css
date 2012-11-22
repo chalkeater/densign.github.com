@@ -14,7 +14,7 @@ body {
 }
 
 #wrapper {
-  width: 1110px;
+  width: 100%;
   height: auto;
   background: gray;
   margin-top: 144px;
@@ -23,8 +23,8 @@ body {
 }
 
 #container {
-  width: 350px;
-  margin-left: 15px;
+  width: 30%;
+  margin-left: 2.5%;
   margin-bottom: 15px;
   height: 400px;
   border-bottom: solid;
