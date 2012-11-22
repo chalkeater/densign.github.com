@@ -1,19 +1,25 @@
 body {
   background: #EEE;
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: 'Open Sans', sans-serif;
   margin: 0;
   padding: 0;
 }
 
 #header {
   height: 120px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
 }
 
 #wrapper {
-  width: auto;
+  width: 1110px;
   height: auto;
   background: gray;
-  margin-top: 20px;
+  margin-top: 144px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #container {

@@ -1,30 +1,31 @@
-#header-content h1 {
-	font-family: 'Oxygen', sans-serif;
-	color: #ccc;
+#header h1 {
 	font-size: 3.5em;
 	margin: 0;
-	position: absolute;
-	bottom: 30px;
+	position: relative;
+	bottom: -10px;
 	width: 100%;
 }
 
-#header-content h2 {
-	font-family: 'Oxygen', sans-serif;
-	color: #ccc;
+#header h2 {
 	font-size: 1.3em;
 	margin: 0;
-	position: absolute;
-	bottom: 5px;
+	position: relative;
+	bottom: -10px;
 	text-align: center;
-	width: 100%
+	width: 100%;
+
 }
 
 #header {
-  background-color: #777;
-  text-align: center;
-  position: relative;
+	font-family: 'Leckerli One', cursive;
+	text-align: center;
+/* background-color: #e0e0e0; */
+	color: #306af3;
+	margin: 0;
+	border-bottom: #f3b930 5px solid;
 }
 
 #container {
 	float: left;
 }
+
