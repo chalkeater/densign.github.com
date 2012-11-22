@@ -1,4 +1,30 @@
+#header-content h1 {
+	font-family: 'Oxygen', sans-serif;
+	color: #ccc;
+	font-size: 3.5em;
+	margin: 0;
+	position: absolute;
+	bottom: 30px;
+	width: 100%;
+}
+
+#header-content h2 {
+	font-family: 'Oxygen', sans-serif;
+	color: #ccc;
+	font-size: 1.3em;
+	margin: 0;
+	position: absolute;
+	bottom: 5px;
+	text-align: center;
+	width: 100%
+}
+
+#header {
+  background-color: #777;
+  text-align: center;
+  position: relative;
+}
+
 #container {
 	float: left;
-	margin: 10px;
 }
